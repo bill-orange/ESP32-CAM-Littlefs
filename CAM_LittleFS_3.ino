@@ -63,8 +63,8 @@
 #define maxPictures 30
 #endif
 
-const char* ssid = "testnet";          // WiFi credentials
-const char* password = "tester12";     // WiFi credentials
+const char* ssid = "******";          // WiFi credentials
+const char* password = "******";     // WiFi credentials
 
 char pName[50];                         // Name for indexed jpg 
 char pCount[50];                        // for picture count string storage
