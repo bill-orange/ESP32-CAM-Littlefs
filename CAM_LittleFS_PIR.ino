@@ -94,7 +94,7 @@
 // TIMERS
 #define debounceTime 500                 // wait to be sure that something moved
 #define onePictureOnly 1000              // do not take more than one picture off one event
-#define hesitateShot 1500                    // waite a bit before taking the picture
+#define hesitateShot 1500                // wait a bit before taking the picture
 //
 
 // Compiler directives for using uSD or built-in RAM
