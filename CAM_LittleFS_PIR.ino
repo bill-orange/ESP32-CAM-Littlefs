@@ -1,6 +1,7 @@
 
 /*********
-  William Webb (c) 11/01/2020
+  by William Webb 11/01/2020  see changelog below
+  
   Sketch to take a picture and store it in flash memory.  The picture can be retrieved with
   FTP.  This sketch is design to work only with the ESP32-CAM A.I. Thinker board.
 
